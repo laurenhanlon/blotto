@@ -11,7 +11,7 @@ source("./blotto-functions.R")
 
 ## Introduction
 
-The goal of this project was to explore strategies related to the game [Blotto](https://en.wikipedia.org/wiki/Blotto_games), and to try and come up with an optimal strategy that will be tested against other players.
+The goal of this project was to explore strategies related to the game [Blotto](https://en.wikipedia.org/wiki/Blotto_games), and to try and come up with an optimal strategy that will be tested against other players. You can find the public GitHub repo including my code and report [here](https://github.com/laurenhanlon/blotto)!
 
 To make the game more 21st centry-esque, here are the alternated instructions:
 
